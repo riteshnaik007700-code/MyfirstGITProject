@@ -1,1 +1,1 @@
-print("Hello, Its my first conflict practise")
+print("Master changed the msg")
