@@ -1,0 +1,1 @@
+print("registration page of pull example")
